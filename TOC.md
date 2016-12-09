@@ -1,4 +1,6 @@
 - 关于我们
-    - [关于max1024](about-us.md)
-    - [关于max1024的 Wiki](about-wiki.md)
+    - [关于max1024](about-us.md)
+    - [关于max1024的 Wiki](about-wiki.md)
+- MySQL
+	- [安装](install.md)
 - [联系我们](contact.md)

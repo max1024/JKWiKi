@@ -1,2 +1,2 @@
-安装MySQL
+### 安装MySQL
 - Windows版本
